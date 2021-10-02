@@ -64,7 +64,7 @@ git push -u origin master
 Time to celebrate you have successfully submitted a PR during Hacktoberfest2021. Thank you for contributing.
 
 ### Some rules to be followed
- - Don't make unnecessary PR otherwise it will be rreported as SPAM.
+ - Don't make unnecessary PR otherwise it will be reported as SPAM.
  - Give some time to maintainers to review your PR, have some patience.
 
 ### If you like this repo, give it a 🌟
