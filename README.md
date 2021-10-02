@@ -7,10 +7,10 @@ Clone for Book My Show ( online movie tickets booking site ) built with ReactJS
 - [General Info](#general-info)
 - [Technologies](#technologies)
 - [Setup](#setup)
-- [Status](#status)
+- [Contributing Guidelines](https://github.com/HackrackClub/BookMyShow-Clone/blob/master/CONTRIBUTING.md)
 
 ## General Info
-
+Here we tried to create a clone of the online tickets booking site ( BookMyShow ) and this repository contains all the necessary files.
 
 ## Technologies
 
@@ -22,17 +22,18 @@ Languages, technologies and tools used
 
 ## Setup
 
-Clone down this repository. You will need ```node``` and ```npm``` installed globally on your machine.
-
-Installation:
-
+Clone down this repository. 
+You will need ```node``` and ```npm``` installed globally on your machine.<br>
+Make sure you have [nodejs](https://nodejs.org/en/) installed on your system.<br>
+CD into the project directory and then follow as:<br>
+To install the missing dependencies
 ```npm install```
 
-To Start Server:
+To Start Server:```npm start```
 
-```npm start```
+To Visit App:```localhost:3000/ideas```
+Any changes you make to the codebase will be reflected directly.
 
-To Visit App:
-
-```localhost:3000/ideas```
-## Status
+## Contributing Guidelines
+If you are new to OpenSource please checkout out our [Contributing Guidelines](https://github.com/HackrackClub/BookMyShow-Clone/blob/master/CONTRIBUTING.md)
+to help you get started.
