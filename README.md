@@ -4,10 +4,10 @@ Clone for Book My Show ( online movie tickets booking site ) built with ReactJS
 
 ## Table of Contents
 
-- [General Info](https://github.com/demonicirfan/book-my-show/edit/master/README.md#general-info)
-- [Technologies](https://github.com/demonicirfan/book-my-show/edit/master/README.md#technologies)
-- [Setup](https://github.com/demonicirfan/book-my-show/edit/master/README.md#setup)
-- [Status](https://github.com/demonicirfan/book-my-show/edit/master/README.md#status)
+- [General Info](#general-info)
+- [Technologies](#technologies)
+- [Setup](#setup)
+- [Status](#status)
 
 ## General Info
 
