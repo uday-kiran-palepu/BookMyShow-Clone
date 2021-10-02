@@ -22,13 +22,18 @@ Here we tried to create a clone of the online tickets booking site ( [BookMyShow
 
 Clone down this repository. 
 You will need ```node``` and ```npm``` installed globally on your machine.<br>
-CD into the project directory 
+CD into the project directory <br>
 
 To install the missing dependencies
+
 ```npm install```
+
 To Start Server:
+
 ```npm start```
+
 To Visit App:
+
 ```localhost:3000/ideas```
 
 ## Status
