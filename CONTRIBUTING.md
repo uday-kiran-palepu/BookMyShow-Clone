@@ -26,7 +26,7 @@ When contributing to this repository, please first discuss the change you wish t
 
 - Take a look at the Existing [Issues](https://github.com/HackrackClub/BookMyShow-Clone/issues) or create your own Issues!
 - Wait for the Issue to be assigned to you after which you can start working on it.
-- Note: Every change in this project should/must have an associated issue.
+- **Note:** Every change in this project should/must have an associated issue.
 
 
 ### 1. Fork the repository:
@@ -52,7 +52,7 @@ cd SFC-foundations
 
 ### 2. Branch:
 
-**4.** Create a new branch. Use its name to identify the issue your addressing.
+- **4.** Create a new branch. Use its name to identify the issue your addressing.
 
 ```bash
 git checkout -b branch_name
@@ -61,7 +61,7 @@ git checkout -b branch_name
 
 ### 3. Work on your assigned issue:
 
-**5.** Add all the files/folders needed.
+- **5.** Add all the files/folders needed.
 
 To add all new files to branch Branch_Name:
 
@@ -81,14 +81,14 @@ git status
 
 ### 4. Commit and push your changes: 
 
-**6.** Give a descriptive message for the convenience of reviewer by:
+- **6.** Give a descriptive message for the convenience of reviewer by:
 
 ```bash
 git commit -m "message"  
 ``` 
 **NOTE:** Replace `message` with the message you want to give to the reviewer.
 
-**7.** Push your changes to the remote repository.
+- **7.** Push your changes to the remote repository.
 To push your changes to the remote forked repository use the command
 
 ```bash
@@ -108,9 +108,10 @@ git push -u origin <branch_name>
 ![image of pr](https://user-images.githubusercontent.com/70807684/126149967-1c1f4c7e-432d-41d0-9ef6-0f75281743f4.png)
 
 - Create a Pull Request which will be reviewed and suggestions would be added to improve it.
-- Add Screenshots to help us know what this enhancement/implementation is all about
+- Add Screenshots to help us know what this enhancement/implementation is all about.
+- Add your assigned issue number in the PR by writing in description `#issue_number`. Try to use inclusive words as well. Eg: `Fixes #15`.
 
-### 6. And party time!🎉
+### 6. Party time!🎉
 Time to celebrate you have successfully submitted a PR. Thank you for contributing.
 
 ## Things to remember:
