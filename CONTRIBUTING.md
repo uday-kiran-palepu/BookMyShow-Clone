@@ -46,7 +46,7 @@ When contributing to this repository, please first discuss the change you wish t
 - **3.** Navigate to your project directory.
 
 ```bash
-cd SFC-foundations
+cd BookMyShow-Clone
 ```
 
 
