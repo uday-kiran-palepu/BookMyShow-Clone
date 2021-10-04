@@ -57,4 +57,5 @@ If you are new to OpenSource please checkout out our [Contributing Guidelines](h
   <img src="https://contrib.rocks/image?repo=HackrackClub/BookMyShow-Clone" />
 </a>
 
-## MADE WITH LOVE ❤ FROM INDIA
+<hr>
+<h1 align="center">Made With 💖 By Developers around the GLOBE!</h1>
