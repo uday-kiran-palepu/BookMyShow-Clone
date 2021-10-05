@@ -1,30 +1,23 @@
-# Pull Request Template📑
+# Template for Pull Request
 
-## Description🧾
+## Hey Open Source enthusiast! 
+Thanks for submitting a PR to this repo Please complete the following checklist for your PR to be approved. Mark the items by adding an x
 
-Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change.
-
-Fixes # (issue)
-
-## Type of change📥
-
-Please delete options that are not relevant.
-
-- [❌] Bug fix 
-- [❌] New feature 
-- [❌] Design or CSS change
-- [❌] This change requires a documentation update
+Example: - [ ] To be done\
+         - [x] Mark me as completed
 
 
+[ ] My Pull Request adheres to the Contribution guidelines.\
+[ ] I have added my proposed solution to the right file.\
+[ ] The issue has been resolved with the solution that I have provided.\
+[ ] My code is properly indented and commented.\
+[ ] I have proposed a working solution to the issue assigned to me.\
 
-## Checklist:✅
+### Few Tips:
+1. Have on-point commit messages.
+2. Add comments on your pull request to help guide the reviewer.
+3. Don't make changes to master branch directly. 
 
-- [✅] My code follows the style guidelines of this project.
-- [✅] I have read all rules of CONTRIBUTING.md & CODE_OF_CONDUCT.md, and assure to abide them without any objection.
-- [✅] I have performed a self-review of my own code.
-- [✅] I have commented my code, particularly in hard-to-understand areas.
-- [✅] I have made corresponding changes to the documentation.
-- [✅] My changes generate no new warnings.
-- [✅] New and existing unit tests pass locally with my changes.
-- [✅] Any dependent changes have been merged and published in downstream modules.
-- [✅] I have checked my code and corrected any misspellings.
+Make the necessary changes to ensure that your PR is complete in all respects. On meeting all the necessary criterias, we will merge your PR.
+
+## Good luck. 
