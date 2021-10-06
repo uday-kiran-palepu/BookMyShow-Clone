@@ -47,15 +47,8 @@ To be updated!
 
 If you are new to OpenSource please checkout out our [Contributing Guidelines](https://github.com/HackrackClub/BookMyShow-Clone/blob/master/CONTRIBUTING.md) to help you get started.
 
-## Look
-
-![loading](/public/fr.png)
-
 ## Contributers
 
 <a href="https://github.com/HackrackClub/BookMyShow-Clone/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=HackrackClub/BookMyShow-Clone" />
 </a>
-
-<hr>
-<h1 align="center">Made With 💖 By Developers around the GLOBE!</h1>
