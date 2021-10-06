@@ -1,10 +1,28 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import EntertainmentCardSlider from '../components/Entertainment/Entertainmentcard.component.jsx';
 import Premier from '../components/Premier/Premier.component.jsx';
 import PosterSlider from '../components/PosterSlider/PosterSlider.component.jsx';
 import { Images } from '../components/config';
+import axios from 'axios';
 
 const HomePage = () => {
+  const [popularMovies, setPopularMovies] = useState([]);
+  const [upcommingMovies, setUpcommingMovies] = useState([]);
+
+  useEffect(() => {
+    const requestPopularMovies = async () => {
+      const getPopularMovies = await axios.get('/movie/popular');
+      console.log('PM', getPopularMovies.data.results);
+    };
+    requestPopularMovies();
+    const requestUpcommingMovies = async () => {
+      const getUpcommingMovies = await axios.get('/movie/upcoming');
+      setUpcommingMovies(getUpcommingMovies.data.results);
+    };
+    requestUpcommingMovies();
+    
+  }, []);
+
   return (
     <>
       <div className='flex flex-col gap-10'>
@@ -25,9 +43,9 @@ const HomePage = () => {
               />
             </div>
             <PosterSlider
-              images={Images}
+              images={popularMovies} //popular movies array
               title='Premiers'
-              subtitle='Brand New re;ease every friday'
+              subtitle='Brand New release every friday'
               isDark={true}
             />
           </div>
@@ -35,9 +53,9 @@ const HomePage = () => {
       </div>
       <div className='container mx-auto px-4'>
         <PosterSlider
-          images={Images}
-          title='Online Streaming Events'
-          subtitle=''
+          images={upcommingMovies}
+          title='Upcomming Movies'
+          subtitle='Movies Yet to Come'
           isDark={false}
         />
       </div>
