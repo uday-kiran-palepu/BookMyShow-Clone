@@ -1,3 +1,5 @@
+<!-- #New line as been added for sample  -->
+
 # BookMyShow-Clone CONTRIBUTING.md
    ![BookMyShow-Clone](https://github.com/HackrackClub/BookMyShow-Clone/blob/ae04d2a9517a6c897f9a94efd6d2d16817bcb8aa/public/favicon.png)
 
